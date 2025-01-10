@@ -43,6 +43,7 @@ class Images {
   static const String markerStore = 'assets/image/marker_store.png';
   static const String languageBackground = 'assets/image/language_bg.png';
   static const String cautionDialogIcon = 'assets/image/caution_dialog_icon.png';
+  static const String france = 'assets/image/france.png';
 
   ///Svg Images
   static const String changePasswordBgImage = 'assets/image/change_password_bg_image.svg';
