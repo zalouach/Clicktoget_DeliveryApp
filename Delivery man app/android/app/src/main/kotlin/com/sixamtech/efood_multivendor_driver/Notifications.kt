@@ -1,4 +1,4 @@
-package com.sixamtech.sixam_mart_delivery_app
+package com.clicktoget.delivery_app
 
 import android.app.Notification
 import android.app.NotificationChannel

@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1000163153346-dut1f04ahq32eeovgrnoep81pe91af3q.apps.googleusercontent.com</string>
+	<string>232703100156-1f21m3331sn91cvp27um5tom64slqf0m.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1000163153346-dut1f04ahq32eeovgrnoep81pe91af3q</string>
+	<string>com.googleusercontent.apps.232703100156-1f21m3331sn91cvp27um5tom64slqf0m</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDjxRDIuTc6ErANoftU-FtgLBSUxMlLCeA</string>
+	<string>AIzaSyD0GLGc0F887HGqZApjfnXxLw-ZocTH6Eo</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1000163153346</string>
+	<string>232703100156</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sixamtech.6amMartDelivery</string>
+	<string>com.clicktoget.delivery-app</string>
 	<key>PROJECT_ID</key>
-	<string>ammart-8885e</string>
+	<string>clicktoget-ma</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ammart-8885e.appspot.com</string>
+	<string>clicktoget-ma.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1000163153346:ios:505069d74110b22a06b25b</string>
+	<string>1:232703100156:ios:103975102f2fbf5df6c379</string>
+	<key>DATABASE_URL</key>
+	<string>https://clicktoget-ma-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>
